@@ -32,7 +32,7 @@ public class SlimefunNukes extends JavaPlugin implements SlimefunAddon {
 
 	private static SlimefunNukes instance;
 	
-	public static final String SUPPORT_URL = "https://github.com/DrakesCraft-Labs/SlimefunNukes/issues";
+	public static final String SUPPORT_URL = "https://github.com/SlimefunNewHorizons/SlimefunNukes/issues";
 	
 	private boolean usingTowny;
 	private boolean usingWG;
